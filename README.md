@@ -38,7 +38,7 @@ For showing progress indicator when list is loading used setListShown(false)
 
 ![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113553.png)
 
-When list was loaded send notifyDataSetChanged() and call setListShown(true) in UI Thread
+When list will be loaded send notifyDataSetChanged() and call setListShown(true) in UI Thread
 
     @Override
     public void run() {
