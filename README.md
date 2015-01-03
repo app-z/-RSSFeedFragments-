@@ -1,7 +1,7 @@
 RSSFeedFragments
 ==================
 
-This Android sample open RSS content URL in WebView
+This Android sample opens RSS content URL in WebView
 
 RSS Feed Client uses Fragments for navigation on RSS items
 
