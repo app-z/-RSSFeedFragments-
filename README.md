@@ -12,6 +12,19 @@ Features
 ![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113639.png)
 
 
+Code loads the specified URL asynchronously
+
+	@Override
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		
+		PkRSS.with(getActivity()).load(url).callback(this).async();
+		...	
+
+	}
+
+
+
 For showing progress indicator when list is loading used setListShown(false)
 
 	@Override
