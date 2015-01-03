@@ -1,7 +1,9 @@
 RSSFeedFragments
 ==================
 
-RSS Feed Client uses Fragments Android sample
+This Android sample open RSS content URL in WebView
+
+RSS Feed Client uses Fragments for navigation on RSS items
 
 Features
 * Pkrss - RSS feed manager for Android
