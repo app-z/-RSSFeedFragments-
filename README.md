@@ -3,7 +3,13 @@ RSSFeedFragments
 
 RSS Feed Client uses Fragments Android sample
 
-![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113630.png)
+Features
+
+* Pkrss - RSS feed manager for Android
+* WebViw
+
+
+![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113639.png)
 
 
 For showing progress indicator when list is loading used setListShown(false)
