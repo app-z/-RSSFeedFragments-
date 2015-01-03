@@ -5,7 +5,8 @@ RSS Feed Client uses Fragments Android sample
 
 Features
 * Pkrss - RSS feed manager for Android
-* WebViw
+* WebView
+
 
 
 ![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113639.png)
