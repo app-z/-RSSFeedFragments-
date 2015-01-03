@@ -49,7 +49,7 @@ When list was loaded send notifyDataSetChanged() and call setListShown(true) in 
 
 ![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113614.png)
 
-Click on Item and load detail through using WebView
+Click on Item and load detail content in WebView
 
 ![](https://github.com/app-z/RSSFeedFragments/blob/master/RSSFeedFragments/images/device-2015-01-03-113630.png)
 
